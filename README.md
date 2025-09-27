@@ -7,6 +7,13 @@
 Note: Please read "supported-device-IDs" for information about how to
 confirm that this is the correct driver for your adapter.
 
+### Ubuntu 22.04 Installation Notes
+
+For Ubuntu 22.04 users experiencing compilation issues:
+- Ensure kernel headers are installed: `sudo apt install linux-headers-$(uname -r)`
+- Install build essentials: `sudo apt install build-essential dkms`
+- If issues persist, see FAQ.md for troubleshooting steps
+
 ### Supported Features
 
 - IEEE 802.11 b/g/n/ac WiFi compliant
