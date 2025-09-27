@@ -1,5 +1,7 @@
 ## 8821cu ( 8821cu.ko ) :rocket:
 
+<!-- Test comment for PR demonstration -->
+
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8811CU, RTL8821CU, RTL8821CUH and RTL8731AU Chipsets
 
 - v5.12.0.4 (Realtek) (20210916) plus updates from the Linux community
